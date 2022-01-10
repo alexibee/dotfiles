@@ -49,3 +49,6 @@
 
 [pull]
   rebase = false
+[user]
+	email = aleksi.b.tr@gmail.com
+	name = Aleksejs Brehovs
